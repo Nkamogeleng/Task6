@@ -1,0 +1,15 @@
+.login-wrapper {
+    margin: 81.094px;
+    padding: 81.094px;
+    display: flexbox;
+    flex-direction: column;
+    align-content:center;
+    font-size: 14px;
+    background-color: turquoise;
+  }
+ 
+  
+  .login-wrapper form {
+    align-content:center;
+    margin-left: 30%;
+  }  
